@@ -31,7 +31,7 @@ PlayerNum.Color = Color3.new(0, 1, 1)
 PlayerNum.Center = true
 
 local WaterMark = Drawing.new("Text")
-WaterMark.Text = "NB1337辅助（闪光）\nQQ群：1076180222"
+WaterMark.Text = "NB1337辅助（射击游戏专用）\nQQ群：1076180222"
 WaterMark.Size = 18
 WaterMark.Color = Color3.new(1, 1, 1)
 WaterMark.Center = true
